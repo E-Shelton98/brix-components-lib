@@ -1,2 +1,2 @@
 /* eslint-disable import/prefer-default-export */
-export { default as BrixComponentLibSample } from './brix-component-lib-sample.vue';
+export { default as BrixHeaderOne } from './brix-header-one.vue'

@@ -1,17 +1,17 @@
 <script>
 import Vue from 'vue';
-import { BrixComponentLibSample } from '@/entry';
+import { BrixHeaderOne } from '@/entry';
 
 export default Vue.extend({
   name: 'ServeDev',
   components: {
-    BrixComponentLibSample,
+    BrixHeaderOne,
   }
 });
 </script>
 
 <template>
   <div id="app">
-    <brix-component-lib-sample />
+    <brix-header-one />
   </div>
 </template>

@@ -1,6 +1,6 @@
 {
   "name": "brix-component-lib",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/brix-component-lib.ssr.js",
   "browser": "dist/brix-component-lib.esm.js",
